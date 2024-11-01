@@ -2,7 +2,7 @@
 
 ## Schritte zur Installation
 
-### 1 Repository Klonen
+### 1 Repository  Klonen
 
 Klonen Sie das Repository lokal auf Ihren Computer:  
 git clone <https://github.com/DEIN_USERNAME/docker-nodejs-sample.git>  
